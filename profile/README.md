@@ -1,1 +1,1 @@
-![HyperTuner architecture overview](/profile/img/arch.png)
+![HyperTuner project architecture overview](/profile/img/hypertuner_arch.png)
